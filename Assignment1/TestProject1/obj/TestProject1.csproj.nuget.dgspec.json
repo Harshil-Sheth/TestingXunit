@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\91942\\Desktop\\Testing\\Assignment1\\TestProject1\\TestProject1.csproj": {}
+    "C:\\Users\\harshil.sheth\\Desktop\\XunitAssignment\\TestingXunit\\Assignment1\\TestProject1\\TestProject1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\91942\\Desktop\\Testing\\Assignment1\\TestProject1\\TestProject1.csproj": {
+    "C:\\Users\\harshil.sheth\\Desktop\\XunitAssignment\\TestingXunit\\Assignment1\\TestProject1\\TestProject1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\91942\\Desktop\\Testing\\Assignment1\\TestProject1\\TestProject1.csproj",
+        "projectUniqueName": "C:\\Users\\harshil.sheth\\Desktop\\XunitAssignment\\TestingXunit\\Assignment1\\TestProject1\\TestProject1.csproj",
         "projectName": "TestProject1",
-        "projectPath": "C:\\Users\\91942\\Desktop\\Testing\\Assignment1\\TestProject1\\TestProject1.csproj",
-        "packagesPath": "C:\\Users\\91942\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\91942\\Desktop\\Testing\\Assignment1\\TestProject1\\obj\\",
+        "projectPath": "C:\\Users\\harshil.sheth\\Desktop\\XunitAssignment\\TestingXunit\\Assignment1\\TestProject1\\TestProject1.csproj",
+        "packagesPath": "C:\\Users\\harshil.sheth\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\harshil.sheth\\Desktop\\XunitAssignment\\TestingXunit\\Assignment1\\TestProject1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\91942\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\harshil.sheth\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

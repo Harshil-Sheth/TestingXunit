@@ -8,5 +8,9 @@ namespace BusinessEntities
 {
     public class Class1
     {
+        public int PassengerNo { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public Nullable<int> Phone { get; set; }
     }
 }
